@@ -2,6 +2,7 @@
 #include <iostream>
 #include <GL/glut.h>
 
+
 void ValoresIniciales(void) {
     glClearColor(0, 0, 255, 0.1);
     glMatrixMode(GL_PROJECTION);
